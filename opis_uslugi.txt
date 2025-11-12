@@ -1,3 +1,8 @@
 #Nazwa uslugi: Telekonsultacje zdrowotne
 
 Tutaj lekarze wspolpracujacy beda mogli uzupelniac dane wg. swojej profesji.
+
+W nastepnej sekcji wspolnie z personelem bedziemy opracowywali korzysci dla pacjetow np.
+1. oszczednosc czasu
+2. dogodny dostep
+3. latwa dostepnosc lekarzy

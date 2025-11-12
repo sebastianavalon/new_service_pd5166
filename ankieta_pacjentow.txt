@@ -1,0 +1,5 @@
+#Anakieta dla pacjentow:
+
+1. Czy kiedykolwiek korzystales z konsultacji *tak/nie*
+2. Jakie sa Twoje glowne obawy zwiazane z telekonsultacjami *do uzupelnienia*
+3. Wolisz leczenie na odleglosc czy bezposrednio w placowce? *tak/nie*

@@ -1,0 +1,7 @@
+# Potencjalne ryzyka
+
+W tej sekcji lekarze wraz z decyzyjna czescia personelu beda opracowywali ryzyka w sekcjach:
+
+- brak dostepu do stabilnego lacza
+- ograniczenia odleglosciowe
+- bezpieczestwo danych
